@@ -3,9 +3,9 @@ add_import_path "bower_components/foundation/scss"
 
 # Set this to the root of your project when deployed:
 http_path = "/"
-css_dir = "../app/webroot/css/foundation"
-images_dir = '../app/webroot/img'
-javascripts_dir = '../app/webroot/js/foundation'
+css_dir = "../webroot/css/foundation"
+images_dir = '../webroot/img'
+javascripts_dir = '../webroot/js/foundation'
 sass_dir = "scss"
 images_dir = "images"
 javascripts_dir = "js"
